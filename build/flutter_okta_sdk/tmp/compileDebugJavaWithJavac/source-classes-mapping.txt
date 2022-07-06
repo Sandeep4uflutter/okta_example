@@ -1,0 +1,2 @@
+com/sonikro/flutter_okta_sdk/BuildConfig.java
+ com.sonikro.flutter_okta_sdk.BuildConfig

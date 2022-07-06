@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\example_okta\\flutter_okta_sample\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cbnits-74\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "485",
+                        "endColumns": "100",
+                        "endOffsets": "581"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cbnits-74\\.gradle\\caches\\transforms-2\\files-2.1\\2f7cb6d8dc0fdadfc0054d6d8dd74de8\\browser-1.2.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,269,385",
+                        "endColumns": "113,99,115,99",
+                        "endOffsets": "164,264,380,480"
+                    }
+                }
+            ]
+        }
+    ]
+}
